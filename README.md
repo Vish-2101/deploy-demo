@@ -1,4 +1,5 @@
 # Running the project locally 
+* Clone the repo in your system.
 * Make a Virtual Environment in your Vscode using the following command.
   *  python -m venv myenv
 *  To run the Virtual Environment use:
